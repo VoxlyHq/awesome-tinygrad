@@ -10,16 +10,35 @@ Related libraries and projects for [tinygrad](https://github.com/tinygrad/tinygr
 
 ## Contents
 
-- [tinygrade & related libraries](#tinygrad--related-libraries)
+- [tinygrad & related libraries](#tinygrad--related-libraries)
+- [Tutorials on tinygrad](#tutorials-on-tinygrad)
 - [Projects using tinygrad](#projects-using-tinygrad)
+- [Other tinygrad projects](#other-tinygrad-projects)
 
 
 ## tinygrad & related libraries
 
-1. [tinygrade](http://tingrad.org): Tinygrad is a tiny library for gradient descent. It is designed to be easy to use and to be fast.
+1. [tinygrad](http://tingrad.org): Tinygrad is a tiny library for gradient descent. It is designed to be easy to use and to be fast.
 
+
+## Tutorials on tinygrad
+
+1. [tinygrad study notes](https://github.com/mesozoic-egg/tinygrad-notes?tab=readme-ov-file) tinygrad study notes.
+2. [From the Tensor to Stable Diffusion](https://github.com/jla524/fromthetensor)
+3. [Puzzles on tinygrad](https://github.com/obadakhalili/tinygrad-tensor-puzzles) puzzles to learn tinygrad
+4. [tinygrad learning](https://github.com/MahirAbbas/tinygrad-learning) learning tinygrad
 
 ## Projects using tinygrad
 
-1. [tinygrad-examples](https://github.com/tinygrad/tinygrad-examples): Examples of tinygrad usage.
-2. 
+1. [Stable diffusion WebGPU](https://github.com/softwiredtech/stable-diffusion-webgpu) is a WebGPU implementation of Stable Diffusion using tinygrad.
+2. [tinyrwkv](https://github.com/wozeparrot/tinyrwkv) A port of the RWKV-LM family of large language models to the tinygrad framework.
+3. [tinyvit](https://github.com/EthanBnntt/tinygrad-vit) A tiny VIT vision model cnn example
+
+## Other tinygrad projects
+
+1. [tinygrad-esp](https://github.com/wozeparrot/tinygrad-on-esp32) esp32 backend for mobile devices
+2. [tiny-jax](https://github.com/tengyifei/tinyjax) tinygrad backend for jax
+
+
+
+
