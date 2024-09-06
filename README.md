@@ -19,7 +19,7 @@ Related libraries and projects for [tinygrad](https://github.com/tinygrad/tinygr
 ## tinygrad & related libraries
 
 1. [tinygrad](http://tingrad.org): Tinygrad is a tiny library for gradient descent. It is designed to be easy to use and to be fast.
-
+2. [exo](https://github.com/exo-explore/exo) Run a cluster of tinygrad servers for inference.
 
 ## Tutorials on tinygrad
 
